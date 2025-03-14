@@ -8,8 +8,9 @@ The Titanic Survival Prediction project is a machine learning model that predict
 This project is a machine learning model that predicts the survival of passengers on the Titanic. The dataset used is the famous Titanic dataset, which contains information about passengers, such as age, gender, class, and whether they survived or not.
 
 ## Open in Kaggle or Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahdidi/YOUR_REPO/blob/main/titan.ipynb)  
-[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/mahdidi/YOUR_REPO/blob/main/titan.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mahdidi/Titanic-Survival.git/blob/main/titan.ipynb)  
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/mahdidi/Titanic-Survival.git/blob/main/titan.ipynb)
+
 
 ## Dataset
 The dataset includes features like:
